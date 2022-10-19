@@ -8,5 +8,12 @@
 import Foundation
 
 print("Hello, World!")
-print("how are you?")
-print("i'm fine, thx")
+print("hello< how are you, im fine")
+print("hello< how are you, im fine")
+print("hello< how are you, im fine")
+print("hello< how are you, im fine")
+print("hello< how are you, im fine")
+print("hello< how are you, im fine")
+print("hello< how are you, im fine")
+print("hello< how are you, im fine")
+print("hello< how are you, im fine")
