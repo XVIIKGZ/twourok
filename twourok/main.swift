@@ -8,4 +8,5 @@
 import Foundation
 
 print("Hello, World!")
-how are you
+print("how are you?")
+print("i'm fine, thx")
